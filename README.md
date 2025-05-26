@@ -443,7 +443,7 @@ Core Development Team
 
 | Avatar | Name & Role |
 |--------|-------------|
-| [![](https://github.com/johnmaina.png?size=100)](https://github.com/johnmaina) | **Emmanuel Jesse**  <br> Lead Developer, Full Stack, UI/UX, Project Management |
+| [![](![image](https://github.com/user-attachments/assets/0a2cb56b-a926-494b-b0cb-ce89c17eb262).png?size=100)](https://github.com/Student1User) | **Emmanuel Jesse**  <br> Lead Developer, Full Stack, UI/UX, Project Management |
 | [![](https://github.com/alicemwende.png?size=100)](https://github.com/alicemwende) | **Alice Mwende**  <br> UI/UX Designer |
 | [![](https://github.com/brianotieno.png?size=100)](https://github.com/brianotieno) | **Brian Otieno**  <br> Backend Developer |
 | [![](https://github.com/clarewanjiku.png?size=100)](https://github.com/clarewanjiku) | **Clare Wanjiku**  <br> Frontend Developer |
