@@ -438,45 +438,17 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### Core Development Team
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Student1User="_blank">
-        <img src="https://github.com/johnmaina.png" width="100px;" alt="John Maina"/><br />
-        <sub><b>John Maina</b></sub>
-      </a><br />
-      Full-Stack Developer (Lead)
-    </td>
-    <td align="center">
-      <a href="https://github.com/alicemwende" target="_blank">
-        <img src="https://github.com/alicemwende.png" width="100px;" alt="Alice Mwende"/><br />
-        <sub><b>Alice Mwende</b></sub>
-      </a><br />
-      UI/UX Designer
-    </td>
-    <td align="center">
-      <a href="https://github.com/brianotieno" target="_blank">
-        <img src="https://github.com/brianotieno.png" width="100px;" alt="Brian Otieno"/><br />
-        <sub><b>Brian Otieno</b></sub>
-      </a><br />
-      Backend Developer
-    </td>
-    <td align="center">
-      <a href="https://github.com/clarewanjiku" target="_blank">
-        <img src="https://github.com/clarewanjiku.png" width="100px;" alt="Clare Wanjiku"/><br />
-        <sub><b>Clare Wanjiku</b></sub>
-      </a><br />
-      Frontend Developer
-    </td>
-    <td align="center">
-      <a href="https://github.com/danielkipkoech" target="_blank">
-        <img src="https://github.com/danielkipkoech.png" width="100px;" alt="Daniel Kipkoech"/><br />
-        <sub><b>Daniel Kipkoech</b></sub>
-      </a><br />
-      DevOps & QA Engineer
-    </td>
-  </tr>
-</table>
+## 👥 Collaborators  
+Core Development Team
+
+| Avatar | Name & Role |
+|--------|-------------|
+| [![](https://github.com/johnmaina.png?size=100)](https://github.com/johnmaina) | **Emmanuel Jesse**  <br> Lead Developer, Full Stack, UI/UX, Project Management |
+| [![](https://github.com/alicemwende.png?size=100)](https://github.com/alicemwende) | **Alice Mwende**  <br> UI/UX Designer |
+| [![](https://github.com/brianotieno.png?size=100)](https://github.com/brianotieno) | **Brian Otieno**  <br> Backend Developer |
+| [![](https://github.com/clarewanjiku.png?size=100)](https://github.com/clarewanjiku) | **Clare Wanjiku**  <br> Frontend Developer |
+| [![](https://github.com/danielkipkoech.png?size=100)](https://github.com/danielkipkoech) | **Daniel Kipkoech**  <br> DevOps & QA Engineer |
+
 
 **Emmanuel Jesse** - 
 **Lead Developer, Full Stack, UI/UX, Project Management**
