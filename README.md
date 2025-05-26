@@ -438,11 +438,10 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### Core Development Team
 
-<table> <tr> <td align="center"><img src="![WhatsApp Image 2025-02-23 at 21 34 52_1be66757](https://github.com/user-attachments/assets/435ebd04-a9a7-406b-8f6a-a5cb36ea1687)" width="100px;" alt="You"/><br /><sub><b>Emmanuel Jesse</b></sub><br />Lead Developer, Full Stack, UI/UX, Project Management</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/583231?v=4" width="100px;" alt="Alice"/><br /><sub><b>Alice Mwende</b></sub><br />UI/UX Designer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/9121449?v=4" width="100px;" alt="Brian"/><br /><sub><b>Brian Otieno</b></sub><br />Backend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/630705?v=4" width="100px;" alt="Clare"/><br /><sub><b>Clare Wanjiku</b></sub><br />Frontend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/31996?v=4" width="100px;" alt="Daniel"/><br /><sub><b>Daniel Kipkoech</b></sub><br />DevOps & QA Engineer</td> </tr> </table>
-
+<table> <tr> <td align="center"><img src="https://avatars.githubusercontent.com/u/9919?v=4" width="100px;" alt="You"/><br /><sub><b>John Maina</b></sub><br />Full-Stack Developer (Lead)</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/583231?v=4" width="100px;" alt="Alice"/><br /><sub><b>Alice Mwende</b></sub><br />UI/UX Designer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/9121449?v=4" width="100px;" alt="Brian"/><br /><sub><b>Brian Otieno</b></sub><br />Backend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/630705?v=4" width="100px;" alt="Clare"/><br /><sub><b>Clare Wanjiku</b></sub><br />Frontend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/31996?v=4" width="100px;" alt="Daniel"/><br /><sub><b>Daniel Kipkoech</b></sub><br />DevOps & QA Engineer</td> </tr> </table>
 #### **Lead Developer & Project Architect**
-**Emmanuel Jesse** - *Lead Developer, Full Stack, UI/UX, Project Management
-![image](https://github.com/user-attachments/assets/cb94c2e5-263c-452d-aa5a-1e697232f280)
+*Emmanuel Jesse* - *Lead Developer, Full Stack, UI/UX, Project Management*
+
 *
 - 📧 Email: magachi.emmanuel@students.jkuat.ac.ke
 - 🐙 GitHub: https://github.com/Student1User
