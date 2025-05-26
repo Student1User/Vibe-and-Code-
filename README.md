@@ -440,14 +440,17 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👥 Collaborators  
 Core Development Team
+## 👥 Collaborators  
+Core Development Team
 
 | Avatar | Name & Role |
 |--------|-------------|
-| [![](![image](https://github.com/Student1User).png?size=100)](https://github.com/Student1User) | **Emmanuel Jesse**  <br> Lead Developer, Full Stack, UI/UX, Project Management |
+| [![](https://github.com/Student1User.png?size=100)](https://github.com/Student1User) | **Emmanuel Jesse**  <br> Lead Developer, Full Stack, UI/UX, Project Management|
 | [![](https://github.com/alicemwende.png?size=100)](https://github.com/alicemwende) | **Alice Mwende**  <br> UI/UX Designer |
 | [![](https://github.com/brianotieno.png?size=100)](https://github.com/brianotieno) | **Brian Otieno**  <br> Backend Developer |
 | [![](https://github.com/clarewanjiku.png?size=100)](https://github.com/clarewanjiku) | **Clare Wanjiku**  <br> Frontend Developer |
 | [![](https://github.com/danielkipkoech.png?size=100)](https://github.com/danielkipkoech) | **Daniel Kipkoech**  <br> DevOps & QA Engineer |
+
 
 
 **Emmanuel Jesse** - 
