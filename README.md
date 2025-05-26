@@ -438,14 +438,16 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### Core Development Team
 
-<table> <tr> <td align="center"><img src="https://avatars.githubusercontent.com/u/9919?v=4" width="100px;" alt="You"/><br /><sub><b>John Maina</b></sub><br />Full-Stack Developer (Lead)</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/583231?v=4" width="100px;" alt="Alice"/><br /><sub><b>Alice Mwende</b></sub><br />UI/UX Designer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/9121449?v=4" width="100px;" alt="Brian"/><br /><sub><b>Brian Otieno</b></sub><br />Backend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/630705?v=4" width="100px;" alt="Clare"/><br /><sub><b>Clare Wanjiku</b></sub><br />Frontend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/31996?v=4" width="100px;" alt="Daniel"/><br /><sub><b>Daniel Kipkoech</b></sub><br />DevOps & QA Engineer</td> </tr> </table>
+<table> <tr> <td align="center"><img src="![image](https://github.com/user-attachments/assets/c5e9061b-65e0-4753-9f0f-d6d480d5744a)" width="100px;" alt="You"/><br /><sub><b>Emmanuel Jesse</b></sub><br />Lead Developer, Full Stack, UI/UX, Project Management</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/583231?v=4" width="100px;" alt="Alice"/><br /><sub><b>Alice Mwende</b></sub><br />UI/UX Designer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/9121449?v=4" width="100px;" alt="Brian"/><br /><sub><b>Brian Otieno</b></sub><br />Backend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/630705?v=4" width="100px;" alt="Clare"/><br /><sub><b>Clare Wanjiku</b></sub><br />Frontend Developer</td> <td align="center"><img src="https://avatars.githubusercontent.com/u/31996?v=4" width="100px;" alt="Daniel"/><br /><sub><b>Daniel Kipkoech</b></sub><br />DevOps & QA Engineer</td> </tr> </table>
 
 #### **Lead Developer & Project Architect**
-**[Your Name]** - *Full-Stack Developer*
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+**Emmanuel Jesse** - *Lead Developer, Full Stack, UI/UX, Project Management
+![image](https://github.com/user-attachments/assets/cb94c2e5-263c-452d-aa5a-1e697232f280)
+*
+- 📧 Email: magachi.emmanuel@students.jkuat.ac.ke
+- 🐙 GitHub: https://github.com/Student1User
+- 💼 LinkedIn: https://www.linkedin.com/in/emmanuel-magachi-jesse-385011298/
+- 🌐 Portfolio: https://ejmdevportfolio.netlify.app/
 
 **Contributions:**
 - Project architecture and system design
@@ -578,21 +580,3 @@ This project was inspired by the real challenges faced by small business owners 
 
 *SmartStore Tracker - Empowering businesses through technology*
 ```
-
-This comprehensive README.md includes:
-
-✅ **Complete project overview** with problem statement and solution
-✅ **Detailed technology stack** and dependencies
-✅ **Step-by-step installation** instructions
-✅ **Configuration guidelines** and environment setup
-✅ **API documentation** with examples
-✅ **Database schema** with table structures
-✅ **File structure** overview
-✅ **Contributing guidelines** and code standards
-✅ **Detailed collaborator information** including your role and AI assistance
-✅ **Support channels** and community resources
-✅ **License information** and legal details
-✅ **FAQ section** for common questions
-✅ **Professional formatting** with emojis and badges
-
-The README properly credits both human and AI collaboration while providing all necessary information for developers, users, and potential contributors to understand and work with the project.
