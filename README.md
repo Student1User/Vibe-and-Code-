@@ -446,10 +446,10 @@ Core Development Team
 | Avatar | Name & Role |
 |--------|-------------|
 | [![](https://github.com/Student1User.png?size=100)](https://github.com/Student1User) | **Emmanuel Jesse**  <br> Lead Developer, Full Stack, UI/UX, Project Management|
-| [![](https://github.com/alicemwende.png?size=100)](https://github.com/alicemwende) | **Alice Mwende**  <br> UI/UX Designer |
-| [![](https://github.com/brianotieno.png?size=100)](https://github.com/brianotieno) | **Brian Otieno**  <br> Backend Developer |
-| [![](https://github.com/clarewanjiku.png?size=100)](https://github.com/clarewanjiku) | **Clare Wanjiku**  <br> Frontend Developer |
-| [![](https://github.com/danielkipkoech.png?size=100)](https://github.com/danielkipkoech) | **Daniel Kipkoech**  <br> DevOps & QA Engineer |
+| [![](https://github.com/Isaac-mutuma.png?size=100)](https://github.com/Isaac-mutuma) | **Isaac Mutuma**  <br> Backend Developer, API Intergrations Specilist |
+| [![](/https://github.com/Hlawutelo.png?size=100)](https://github.com/Hlawutelo) | **Hlawutelo Ntsanwisi**  <br> Technical Writer & Product Researcher |
+| [![](https://github.com/clarewanjiku.png?size=100)](https://github.com/clarewanjiku) | **Winnie Nyambura**  <br> Frontend Developer, Tailwind CSS Expert |
+| [![](.png?size=100)]() | **Qaqamba**  <br> QA Engineer, Testing and Automation |
 
 
 
