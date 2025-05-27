@@ -819,7 +819,7 @@ Enhance post-authentication user experience by redirecting users to the marketin
 This enhancement aligns with modern SaaS application best practices for user experience optimization and engagement retention.
 ```
 
-# Project Title
+
 
 > ⚠️ **Notice:** This project could not be hosted online due to unavoidable technical errors. However, it is fully functional and available for offline viewing. Below are screenshots showcasing the application's features and design.
 
