@@ -831,35 +831,35 @@ This enhancement aligns with modern SaaS application best practices for user exp
 ![Home Page](![image](https://github.com/user-attachments/assets/dcdf510f-6534-4266-8e3d-f284fa002997)
 
 ### 2. Login Page
-![Registration page](![image](https://github.com/user-attachments/assets/fca192d5-beb8-4b00-8f5d-2d6f55e92232))
+![Registration page](![image](https://github.com/user-attachments/assets/fca192d5-beb8-4b00-8f5d-2d6f55e92232)
 
-![Login Page](![image](https://github.com/user-attachments/assets/1235129d-a61a-4726-ba40-c6e420719351))
+![Login Page](![image](https://github.com/user-attachments/assets/1235129d-a61a-4726-ba40-c6e420719351)
 
 ### 3. Dashboard
-![Dashboard](![image](https://github.com/user-attachments/assets/846110c8-f667-4d05-9977-870c072d16ba))
+![Dashboard](![image](https://github.com/user-attachments/assets/846110c8-f667-4d05-9977-870c072d16ba)
 
-![Dashboard](![image](https://github.com/user-attachments/assets/6a6dcc06-e386-4b1c-90e5-6d4f866f1cf9))
+![Dashboard](![image](https://github.com/user-attachments/assets/6a6dcc06-e386-4b1c-90e5-6d4f866f1cf9)
 
 ### 4. Product List
-![Product List](![image](https://github.com/user-attachments/assets/e5668e69-8da8-4828-a80e-f93d7aa76999))
+![Product List](![image](https://github.com/user-attachments/assets/e5668e69-8da8-4828-a80e-f93d7aa76999)
 
-![Product List](![image](https://github.com/user-attachments/assets/ba2c4aaf-09bf-4898-96a3-f037798c33a9))
+![Product List](![image](https://github.com/user-attachments/assets/ba2c4aaf-09bf-4898-96a3-f037798c33a9)
 
-![Product List](![image](https://github.com/user-attachments/assets/2b517d61-3d5e-48cb-a1e0-942fee189adc))
+![Product List](![image](https://github.com/user-attachments/assets/2b517d61-3d5e-48cb-a1e0-942fee189adc)
 
-![Product List](![image](https://github.com/user-attachments/assets/e959c4d5-cf1e-4a04-8259-e83606a29b18))
+![Product List](![image](https://github.com/user-attachments/assets/e959c4d5-cf1e-4a04-8259-e83606a29b18)
 
 ### 5. Add New Product
-![Add New Product](![image](https://github.com/user-attachments/assets/d54fc6c5-f275-499b-80b1-f53cc0238c2e))
+![Add New Product](![image](https://github.com/user-attachments/assets/d54fc6c5-f275-499b-80b1-f53cc0238c2e)
 
 ### 6.
-![New Product](![image](https://github.com/user-attachments/assets/3541d5d6-c2d3-4715-816a-609f905d2908))
+![New Product](![image](https://github.com/user-attachments/assets/3541d5d6-c2d3-4715-816a-609f905d2908)
 
 ### 7. Categories
-![categories](![image](https://github.com/user-attachments/assets/36974747-4051-45d6-9727-06d87ba2c96e))
+![categories](![image](https://github.com/user-attachments/assets/36974747-4051-45d6-9727-06d87ba2c96e)
 
 ### 8.
-![Categories](![image](https://github.com/user-attachments/assets/4674319b-335d-4734-a8a3-b436c60241af))
+![Categories](![image](https://github.com/user-attachments/assets/4674319b-335d-4734-a8a3-b436c60241af)
 
 ---
 
