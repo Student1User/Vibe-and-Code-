@@ -826,9 +826,9 @@ This enhancement aligns with modern SaaS application best practices for user exp
 ## 📸 Screenshots
 
 ### 1. Home Page
-![Home Page](![image](https://github.com/user-attachments/assets/66ed4ba6-af24-40d8-af34-da047f869ccb))
+![Home Page](![image](https://github.com/user-attachments/assets/66ed4ba6-af24-40d8-af34-da047f869ccb)
 
-![Home Page](![image](https://github.com/user-attachments/assets/dcdf510f-6534-4266-8e3d-f284fa002997))
+![Home Page](![image](https://github.com/user-attachments/assets/dcdf510f-6534-4266-8e3d-f284fa002997)
 
 ### 2. Login Page
 ![Registration page](![image](https://github.com/user-attachments/assets/fca192d5-beb8-4b00-8f5d-2d6f55e92232))
